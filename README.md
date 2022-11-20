@@ -49,6 +49,9 @@
 - [Jeanine Flora](https://github.com/JazjayFlora "Jeanine Flora")
 - [Jerry Rogers](https://github.com/mrrogerswork "Jerry Rogers")
 
+## Advisor
+- [Dain Miller](https://github.com/dainmiller "Dain Miller")
+  
 ## 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
