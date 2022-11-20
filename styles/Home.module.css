@@ -89,7 +89,7 @@
 .card:focus,
 .card:active {
   color: #f30000;
-  border-color: #f30000;
+  border-color: #0014f3;
 }
 
 .card h2 {
