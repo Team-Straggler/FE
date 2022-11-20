@@ -7,12 +7,22 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import foodBankData from '../data-20221020221251.json'
+import { useState } from 'react';
 
 export const FoodBankTable = () => {
 
     let foodBankDataList = foodBankData.data
 
-    console.log(foodBankDataList)
+    let foodBankCity = []
+
+    const getBankListByZip = (zipCity) =>{
+        let listBankListZip = foodBankDataList.filter(data => {
+            return data[10] == zipCity
+        } )
+        foodBankCity = listBankListZip
+    }
+    getBankListByZip('Los Angeles')
+
     return(
         <>
         <TableContainer component={Paper}>
@@ -23,11 +33,11 @@ export const FoodBankTable = () => {
             <TableCell align="right">Address</TableCell>
             <TableCell align="right">City</TableCell>
             <TableCell align="right">Zip Code</TableCell>
-            <TableCell align="right">Food Type</TableCell>
+            <TableCell align="right">Resource Type</TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
-          {foodBankDataList.map((row) => (
+          {foodBankCity.map((row) => (
             <TableRow
               key={row.name}
               sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
