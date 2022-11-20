@@ -110,7 +110,7 @@
 
 @media (max-width: 600px) {
   .grid {
-    width: 100%;
+    width: 40%;
     flex-direction: column;
   }
 }
@@ -118,10 +118,10 @@
 @media (prefers-color-scheme: dark) {
   .card,
   .footer {
-    border-color: #222;
+    border-color: rgb(0, 0, 0);
   }
   .code {
-    background: #111;
+    background: rgb(0, 0, 0);
   }
   .logo img {
     filter: invert(1);
