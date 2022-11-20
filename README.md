@@ -36,7 +36,7 @@
 - [ ] Search function by location or resource type
 - [ ] TBD
 
-## Dev Team
+## Contributors
 
 **Team Straggler (Fall In Hackathon November 2022 - Veteran Homelessness)**
 
@@ -44,6 +44,10 @@
 - [Johnathan Baldera](https://github.com/JohnathanBaldera "Johnathan Baldera")
 - [Guan Chan](https://github.com/guanhchan "Guan Chan")
 - [Michael Nau](https://github.com/michaelwnau "Michael Nau")
+- [Ian Tran](https://github.com/idtran "Ian Tran")
+- [Charles Griffin](https://github.com/cwgriffin23 "Charles Griffin")
+- [Jeanine Flora](https://github.com/JazjayFlora "Jeanine Flora")
+- [Jerry Rogers](https://github.com/mrrogerswork "Jerry Rogers")
 
 ## 🤝 Support
 
