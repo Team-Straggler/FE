@@ -3,6 +3,7 @@ import HomeIcon from '@mui/icons-material/Home';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import MonitorHeart from '@mui/icons-material/MonitorHeart';
 import LocationSearching from '@mui/icons-material/LocationSearching';
+import LoginIcon from '@mui/icons-material/Login';
 import BottomNavigationAction from '@mui/material/BottomNavigationAction';
 import { useState } from 'react';
 
@@ -20,6 +21,7 @@ export const Nav = () => {
       <BottomNavigationAction label='Favorites' icon={<FavoriteIcon />} />
       <BottomNavigationAction label='Diabetic' icon={<MonitorHeart />} />
       <BottomNavigationAction label='Search' icon={<LocationSearching />} />
+      <BottomNavigationAction label='Login' icon={<LoginIcon />} />
     </BottomNavigation>
   );
 };
