@@ -40,10 +40,10 @@
 
 **Team Straggler (Fall In Hackathon November 2022 - Veteran Homelessness)**
 
-- [Profile](https://github.com/trzaidi "Tai Zaidi")
-- [Profile](https://github.com/JohnathanBaldera "Johnathan Baldera")
-- [Profile](https://github.com/guanhchan "Guan Chan")
-- [Profile](https://github.com/michaelwnau "Michael Nau")
+- [Tai Zaidi](https://github.com/trzaidi "Tai Zaidi")
+- [Johnathan Baldera](https://github.com/JohnathanBaldera "Johnathan Baldera")
+- [Guan Chan](https://github.com/guanhchan "Guan Chan")
+- [Michael Nau](https://github.com/michaelwnau "Michael Nau")
 
 ## 🤝 Support
 
