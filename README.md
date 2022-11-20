@@ -1,4 +1,4 @@
-# Samaritan
+# Project Samaritan
 
 <h1 align="center"><SAMARITAN></h1>
 
