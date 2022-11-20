@@ -8,7 +8,7 @@
 
 - [Repo](https://github.com/Team-Straggler/FE> "<Samaritan> Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Notion](https://www.notion.so/Project-Samaritan-36c0f58db5954fb088b3c69e0bbf38d6)> "Notion")
 
 ## Screenshots
 
