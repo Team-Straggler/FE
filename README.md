@@ -8,7 +8,7 @@
 
 - [Repo](https://github.com/Team-Straggler/FE> "<Samaritan> Repo")
 
-- [Notion](https://www.notion.so/Project-Samaritan-36c0f58db5954fb088b3c69e0bbf38d6> "Notion")
+- [Notion](https://juicy-crowley-87c.notion.site/Project-Samaritan-36c0f58db5954fb088b3c69e0bbf38d6> "Notion")
 
 ## Screenshots
 
