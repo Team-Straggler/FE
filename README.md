@@ -24,6 +24,7 @@
 - Node
 - NPM
 - NextJS
+- Vercel
 - MaterialUI
 - LeafletJS
 - HTML
@@ -58,3 +59,4 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
+![This is an image](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)
